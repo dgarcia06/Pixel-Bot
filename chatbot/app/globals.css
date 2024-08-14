@@ -1,0 +1,32 @@
+/* Global Styles */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* List Styling in Chat Bubbles */
+.chat-bubble ul {
+  margin: 0; 
+  padding-left: 20px; 
+}
+
+.chat-bubble li {
+  margin: 0 0 15px 0; 
+}
+
+.chat-bubble p {
+  margin: 0 0 10px 0; 
+  line-height: 1.5; 
+}
+
+/* Chat Bubble Styling */
+.chat-bubble-assistant {
+  background-color: #09152b; 
+  color: #F8EDED;
+}
+
+.chat-bubble-user {
+  background-color: #09152b; 
+  color: #F8EDED; 
+}
